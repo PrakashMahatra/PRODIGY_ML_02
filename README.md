@@ -27,7 +27,7 @@ The dataset used in this project is the [Mall Customer Segmentation Data](https:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/mall-customer-segmentation.git
+   git clone https://github.com/PrakashMahatra/PRODIGY_ML_02.git
    cd mall-customer-segmentation
    ```
 
